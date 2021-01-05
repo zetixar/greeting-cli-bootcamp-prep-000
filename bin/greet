@@ -2,5 +2,5 @@
 require_relative "../lib/greeting.rb"
 
 # code your CLI here!
-name = get.strip
+name = gets.strips
 greet(name)
